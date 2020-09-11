@@ -43,7 +43,7 @@
 
 <details>
   <summary>Lab 8:Configuring an HTTP Load Balancer with Autoscaling.</summary>
-  <img src="screenshots/Configuring an HTTP Load Balancer with Autoscaling.PNG">
+  <img src="screenshots/Configuring an HTTP Load Balancer with Autoscaling.jpeg">
 </details>
 
 <details>
@@ -56,6 +56,10 @@
   <img src="screenshots/Google Cloud Fundamentals Getting Started with BigQuery.PNG">
 </details>
 
+<details>
+  <summary>Lab 11:Predicting Visitor Purchases with a Classification Model with BigQuery ML.</summary>
+  <img src="screenshots/Predicting Visitor Purchases with a Classification Model with BigQuery ML.jpeg">
+</details>
 
 ## TRANSLATION CODE
 
