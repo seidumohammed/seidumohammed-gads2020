@@ -32,7 +32,7 @@
 
 <details>
   <summary>Lab 6:Recommend Products using ML with Cloud SQL and Dataproc.</summary>
-  <img src="screenshots/Recommend Products using ML with Cloud SQL and Dataproc.png">
+  <img src="screenshots/Recommend Products using ML with Cloud SQL and Dataproc.PNG">
 </details>
 
 <details>
