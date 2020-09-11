@@ -22,38 +22,38 @@
 
 <details>
   <summary>Lab 4:Google Cloud Fundementals-Getting Started with Cloud Storage and Cloud SQL.</summary>
-  <img src="screenshots/Google Cloud Fundementals-Getting Cloud Storage and Cloud SQL.png">
+  <img src="screenshots/Google Cloud Fundamentals Getting Started with Cloud Storage and Cloud SQL.PNG">
 </details>
 
 <details>
   <summary>Lab 5:Google Cloud Fundementals-Getting Started with Deployment Manager and Cloud Monitoring.</summary>
-  <img src="screenshots/Google Cloud Fundementals-Getting Started with Deployment Manager and Cloud Monitoring.png">
+  <img src="screenshots/Google Cloud Fundementals-Getting Started Deployment Manager and Cloud Monitoring.png">
 </details>
 
 <details>
   <summary>Lab 6:Recommend Products using ML with Cloud SQL and Dataproc.</summary>
-  <img src="screenshots/Recommend Products using ML with Cloud SQL and Dataproc.png">
+  <img src="screenshots/Recommend Products using ML with Cloud SQL and Dataproc.PNG.png">
 </details>
 
 <details>
   <summary>Lab 7:Explore a BigQuery Public Dataset.</summary>
-  <img src="screenshots/Explore a BigQuery Public Dataset.png">
+  <img src="screenshots/Explore a BigQuery Public Dataset.PNG">
 </details>
 
 
 <details>
   <summary>Lab 8:Configuring an HTTP Load Balancer with Autoscaling.</summary>
-  <img src="screenshots/Configuring an HTTP Load Balancer with Autoscaling.png">
+  <img src="screenshots/Configuring an HTTP Load Balancer with Autoscaling.PNG">
 </details>
 
 <details>
   <summary>Lab 9:App Dev-Setting up a  Development Environment v1.1.</summary>
-  <img src="screenshots/RApp Dev-Setting up a  Development Environment v1.1.png">
+  <img src="screenshots/App Dev-Setting up a  Development Environment v1.1.png">
 </details>
 
 <details>
   <summary>Lab 10:Google Cloud Fundamentals Getting Started with BigQuery.</summary>
-  <img src="Google Cloud Fundamentals Getting Started with BigQuery.png">
+  <img src="screenshots/Google Cloud Fundamentals Getting Started with BigQuery.PNG">
 </details>
 
 
