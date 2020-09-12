@@ -63,7 +63,7 @@
 
 <details>
   <summary>Lab 12:Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow.</summary>
-  <img src="screenshots/Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow.PNG">
+  <img src="screenshots/Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow.png">
 </details>
 
 ## TRANSLATION CODE
