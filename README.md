@@ -61,6 +61,11 @@
   <img src="screenshots/Predicting Visitor Purchases with a Classification Model with BigQuery ML.jpeg">
 </details>
 
+<details>
+  <summary>Lab 12:Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow.</summary>
+  <img src="screenshots/Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow.PNG">
+</details>
+
 ## TRANSLATION CODE
 
 ## LAB-1: Google Cloud Fundamentals: Getting Started with Compute Engine
