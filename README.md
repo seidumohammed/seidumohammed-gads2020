@@ -1,6 +1,6 @@
 
 ## GADS 2020-Phase 2 Projects 
-## Seidu Mohammed (saeed24itc@gmail.com or seyid24itc@gmail.com)
+## Seidu Mohammed (**seidumohammed64@gmail.com**, saeed24itc@gmail.com, seyid24itc@gmail.com)
 
 ## COMPLETED LABS
 
